@@ -14,3 +14,7 @@ For a example of use of getNextRungeKuta open example.cpp for compile
 make
 ./example
 ```
+
+---
+
+For use in your project you could use cmake.

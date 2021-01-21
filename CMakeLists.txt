@@ -6,4 +6,4 @@ project(getNextRungeKuta)
 
 # Add a library to this build. The name of the library is MyLibrary and it
 # consists of only the MyLibrary.cpp file
-add_library(getNextRungeKuta getNextRungeKuta.h)
+add_library(getNextRungeKuta getNextRungeKuta.cpp)
