@@ -18,3 +18,10 @@ make
 ---
 
 For use in your project you could use cmake.
+
+```bash
+mkdir bin/
+cd bin
+cmake ..
+make
+```
